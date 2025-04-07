@@ -79,7 +79,8 @@
 
 
 <div align="center">
-  <img src="https://github.com/nabintamanghai/nabintamanghai/blob/output/github-snake-dark.svg" alt="snake gif">
+  ![snake gif](https://github.com/nabintamanghai/nabintamanghai/blob/output/github-snake-dark.svg)
+<!--   <img src="https://github.com/nabintamanghai/nabintamanghai/blob/output/github-snake-dark.svg" alt="snake gif"> -->
 </div>
 
 ###
