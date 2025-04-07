@@ -3,7 +3,7 @@
 ###
 <H3>📬 Let's Connect<H3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/nawin-shyangba/" target="_blank">
+  <a href="https://www.linkedin.com/in/nawintamanghai/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/sachinayy" target="_blank">
@@ -19,7 +19,7 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nawinshyangba.nawinshyangba&"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nawintamanghai.nawintamanghai&"  />
 
 ###
 
@@ -71,15 +71,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawinshyangba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nawinshyangba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dark&hide_border=false&order=2" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nawintamanhai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nawintamanhai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dark&hide_border=false&order=2" height="125" alt="languages graph"  />
 </div>
 
 ###
 
 
 <div align="center">
-  <img src="https://github.com/nawinshyangba/nawinshyangba/blob/output/github-snake-dark.svg" alt="snake gif">
+  <img src="https://github.com/nawintamanhai/nawintamanhai/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
 
 ###
