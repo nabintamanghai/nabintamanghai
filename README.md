@@ -79,8 +79,8 @@
 
 
 <div align="center">
-  ![Snake animation](https://raw.githubusercontent.com/nabintamanghai/nabintamanghai/output/github-contribution-grid-snake.svg)
-<!--   ![snake gif](https://github.com/nabintamanghai/nabintamanghai/blob/output/github-snake-dark.svg) -->
+
+   ![snake gif](https://github.com/nabintamanghai/nabintamanghai/blob/output/github-snake-dark.svg)
 <!--   <img src="https://github.com/nabintamanghai/nabintamanghai/blob/output/github-snake-dark.svg" alt="snake gif"> -->
 </div>
 
