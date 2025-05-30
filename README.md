@@ -3,7 +3,7 @@
 ###
 <H3>📬 Let's Connect<H3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/nabintamanghai/" target="_blank">
+  <a href="https://www.linkedin.com/in/nabintmg/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/sachinayy" target="_blank">
