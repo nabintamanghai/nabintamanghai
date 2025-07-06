@@ -1,4 +1,3 @@
-<img align="right" height="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdwd3Rtcm50czdsdTZ2MTRld203OThxaWY2dmhseDlqamo4NDZ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif"  />
 
 ###
 <H3>📬 Let's Connect<H3>
