@@ -26,14 +26,12 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
 **🔧 Technologies & Tools:** <br>
 🛢️ SQL: Microsoft SQL Server, MySQL <br>
 📊 Power BI: Dashboards and interactive visualizations <br>
 📅 Excel: Pivot Tables & Power Query <br>
 🐍 Python: Data visualization, manipulation and automation <br>
 </p>
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
