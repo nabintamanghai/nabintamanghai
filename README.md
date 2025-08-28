@@ -30,11 +30,10 @@
 📅 Excel: Pivot Tables & Power Query <br>
 🐍 Python: Data visualization, manipulation and automation <br>
 </p>
+
 ###
 
-
 <h3 align="left">🛠 Language and tools</h3>
-
 
 ###
 
@@ -72,11 +71,16 @@
 </div>
 
 ###
+
 <div align="center">
 
    ![snake gif](https://github.com/nabintamanghai/nabintamanghai/blob/output/github-snake-dark.svg)
 <!--   <img src="https://github.com/nabintamanghai/nabintamanghai/blob/output/github-snake-dark.svg" alt="snake gif"> -->
 </div>
+
+###
+
+
 ###
 
 <!--
