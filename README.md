@@ -16,9 +16,7 @@
 </div>
 
 ###
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nabintamanghai.nabintamanghai&"  />
-
 ###
 
 <h1 align="center">Hello World!🙋‍♂️</h1>
@@ -34,7 +32,9 @@
 </p>
 ###
 
+
 <h3 align="left">🛠 Language and tools</h3>
+
 
 ###
 
